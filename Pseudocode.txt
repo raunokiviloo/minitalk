@@ -1,0 +1,4 @@
+Kill can be used to send signals to processes.
+
+Need to convert a string to its binary representation and then send this via signals.
+Are we displaying character by character? Because we know a char is 1 byte == 8 bits.
